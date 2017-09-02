@@ -13,7 +13,7 @@
  * the applicable license agreement with MediaTek ("License Agreement") and
  * been granted explicit permission to do so within the License Agreement
  * ("Permitted User"). If you are not a Permitted User, please cease any
- * access or use of MediaTek Software immediately.
+ * access or use of MediaTek Software immediately. Yan
  */
 
 /**
